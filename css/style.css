@@ -143,3 +143,9 @@ footer{
     
     }
 }
+
+@media(max-width: 470px){
+    .nav{
+        display: block;
+    }
+}
