@@ -75,6 +75,44 @@ img{
     font-size: 0.8rem;
 }
 
+.vision{
+    margin-bottom: 2rem;
+}
+
+.motto p{
+    font-family: 'Courgette', cursive;
+    font-size: 2rem;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.motto h3{
+    font-size: 3rem;
+}
+
+.mail{
+    color: black;
+    text-decoration: none;
+}
+
+.mail:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.social-media{
+    margin-top: 3.3rem;
+}
+
+.social-media .fa{
+    font-size: 1.5rem;
+}
+
+.social-media ul li a{
+    color: black;
+    text-decoration: none;
+}
+
 .team p{
     line-height: 5px;
 }
@@ -110,6 +148,7 @@ footer{
 
 
 @media(max-width: 600px){
+    
     nav ul li a{
         margin: 0;
         color: white;
